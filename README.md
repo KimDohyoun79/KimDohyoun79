@@ -1,71 +1,66 @@
+<div align= "center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+dokim's+GitHub!👋)](https://git.io/typing-svg)
  
-<div align="left">
 
 -------
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDohyoun79&show_icons=true&theme=radical)
 
 <br>
 
 ## 💻 dokim's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-<!--     <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a> -->
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
+<a href="https://velog.io/@dokim">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:dogdo5726@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/dokim">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/dokim">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-</div><br>
+<br>
+<br>
+<br>
+
     
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-</div><br>
+## :star: Once I've used :star:
+
+
+#### 📗 Front-End
+
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="Android" src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
+
+#### 📘 Back-End
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+<img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<br>
+<img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
+
+#### 📙 Communication
+
+
+<img alt="github" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="notion" src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+<img alt="slack" src="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+<img alt="discord" src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+
+<br>
+<br>
+<br>
+
+
+
+## :star: Baekjoon Solved Stats :star:
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=klmyjm1)](https://solved.ac/klmyjm1)
+  
+<br>
+
+   
+ ## :star: Github Stats :star:
+
+<a href="https://github.com/KimDohyoun79&"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=KimDohyoun79&&theme=nord&hide_border=true&show_icons=true&" /></a>
+<a href="https://github.com/KimDohyoun79&"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDohyoun79&layout=compact&theme=nord&hide_border=true" /></a> 
+
 </div>
